@@ -1,3 +1,5 @@
+package SeabattleOOP;
+
 import java.util.Scanner;
 
 /**
